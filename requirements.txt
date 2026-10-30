@@ -1,0 +1,6 @@
+opencv-python
+mediapipe==1.1.1
+PySide6
+pyautogui
+numpy
+screen-brightness-control
